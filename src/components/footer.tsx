@@ -8,15 +8,15 @@ type Links = Array<{
 const Footer = () => {
   const links: Links = [
     {
-      href: 'https://nelsonlai.link/s/twitter',
+      href: 'https://x.com/O_Toyyib',
       icon: <SiX className='size-4' />
     },
     {
-      href: 'https://nelsonlai.link/s/github',
+      href: 'https://github.com/braviadev',
       icon: <SiGithub className='size-4' />
     },
     {
-      href: 'https://nelsonlai.link/s/instagram',
+      href: 'https://www.instagram.com/brav_iaa?',
       icon: <SiInstagram className='size-4' />
     }
   ]
