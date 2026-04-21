@@ -1,5 +1,6 @@
 import type { Config } from 'drizzle-kit'
-import * as dotenv from 'dotenv'
+
+import * as dotenv from '@dotenvx/dotenvx'
 
 // This loads the variables from your .env file into the system memory
 dotenv.config({
