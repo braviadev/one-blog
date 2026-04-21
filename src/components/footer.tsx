@@ -16,7 +16,6 @@ const Footer = () => {
       icon: <SiGithub className='size-4' />
     },
     {
-      href: 'https://www.instagram.com/brav_iaa?',
       href: 'https://www.instagram.com/bravia.ot',
       icon: <SiInstagram className='size-4' />
     }
