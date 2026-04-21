@@ -55,5 +55,5 @@ pnpm dev
 ---
 
 <p align="center">
-Made with Passion and Love from Nigeria
+Made with ❤️ and passion in Nigeria
 </p>
