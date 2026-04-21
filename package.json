@@ -2,7 +2,7 @@
   "name": "one-blog",
   "version": "0.0.0",
   "license": "MIT",
-  "author": "Nelson Lai <me@nelsonlai.dev> (https://github.com/nelsonlaidev/)",
+  "author": "Olanrewaju Toyyib <me@nelsonlai.dev> (https://github.com/nelsonlaidev/)",
   "type": "module",
   "scripts": {
     "build": "next build",

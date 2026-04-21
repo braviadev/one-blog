@@ -9,8 +9,9 @@ node_modules
 *.pem
 
 # Env files
-.env*.local
 .env
+.env.local
+.env.*
 
 # TypeScript
 *.tsbuildinfo

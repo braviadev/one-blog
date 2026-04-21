@@ -1,6 +1,6 @@
 import { env } from '@/env'
 
-export const MY_NAME = 'Nelson Lai'
+export const MY_NAME = 'Olanrewaju Toyyib'
 export const SITE_URL = env.NEXT_PUBLIC_SITE_URL
 export const SITE_TITLE = 'One Blog'
 export const SITE_DESCRIPTION =
